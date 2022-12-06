@@ -1,0 +1,8 @@
+**/.DS_Store
+*.err
+*.out
+build
+*.pdf
+.vscode
+to_canvas
+!HW*.pdf
