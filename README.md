@@ -1,5 +1,5 @@
 # CS759_HWs
-My homework archive to CS759 High Performance Computing in Fall 2022. This is just a private repo.
+My homework archive to CS759 High Performance Computing in Fall 2022.
 
 ## Homework Scores
 1. HW01: 97/100
@@ -11,3 +11,4 @@ My homework archive to CS759 High Performance Computing in Fall 2022. This is ju
 7. HW07: 100/100
 8. HW08: (I drop it)
 9. HW09: 100/100
+10. HW10: 100/100
